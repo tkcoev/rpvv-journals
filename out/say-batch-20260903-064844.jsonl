@@ -1,0 +1,1 @@
+{"n": 1, "key": "ZZKORZINA-99999999", "status": "ошибка (код 1)", "rc": 1, "why": ["✖ API 404: {\"errors\":{},\"errorsData\":{},\"errorMessages\":[\"Задача не существует.\"],\"statusCode\":404}"], "live": false, "at": "2026-09-03T06:48:45"}
