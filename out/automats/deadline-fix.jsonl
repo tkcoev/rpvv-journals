@@ -22,3 +22,7 @@
 {"key": "FILIALARKHONSKI-42", "deadline": "2026-11-15", "action": "оставлен", "why": "задача автора ГД", "at": "2026-09-06T05:30:22", "dry": false}
 {"key": "OTDELTEKHNICHES-35", "deadline": "2026-09-05", "action": "оставлен", "why": "срок ставил человек (при создании, uid 8000000000000109)", "at": "2026-09-06T05:30:38", "dry": false}
 {"itog": true, "moved": 0, "skipped": 3, "checked": 3, "errors": 0, "at": "2026-09-06T05:30:54", "dry": false}
+{"key": "OTDELTEKHNICHES-35", "deadline": "2026-09-05", "action": "оставлен", "why": "срок ставил человек (при создании, uid 8000000000000109)", "at": "2026-09-07T05:30:05", "dry": false}
+{"key": "FILIALVLADIKAVK-37", "deadline": "2026-09-20", "action": "оставлен", "why": "задача автора ГД", "at": "2026-09-07T05:30:16", "dry": false}
+{"key": "FILIALARKHONSKI-42", "deadline": "2026-11-15", "action": "оставлен", "why": "задача автора ГД", "at": "2026-09-07T05:30:16", "dry": false}
+{"itog": true, "moved": 0, "skipped": 3, "checked": 3, "errors": 0, "at": "2026-09-07T05:30:47", "dry": false}
