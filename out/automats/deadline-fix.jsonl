@@ -90,3 +90,16 @@
 {"key": "FILIALVLADIKAVK-37", "deadline": "2026-09-20", "action": "оставлен", "why": "задача автора ГД", "at": "2026-09-14T05:30:40", "dry": false}
 {"key": "YURIDICHESKII-67", "deadline": "2026-10-10", "action": "оставлен", "why": "задача автора ГД", "at": "2026-09-14T05:30:40", "dry": false}
 {"itog": true, "moved": 0, "skipped": 10, "checked": 10, "errors": 0, "at": "2026-09-14T05:30:53", "dry": false}
+{"key": "RSSVLD-291", "deadline": "2026-09-13", "action": "оставлен", "why": "срок ставил человек (при создании, uid 8000000000000075)", "at": "2026-09-15T05:30:11", "dry": false}
+{"key": "FILIALARKHONSKI-42", "deadline": "2026-11-15", "action": "оставлен", "why": "задача автора ГД", "at": "2026-09-15T05:30:14", "dry": false}
+{"key": "OTDELKADROV-32", "deadline": "2026-09-19", "action": "оставлен", "why": "задача автора ГД", "at": "2026-09-15T05:30:15", "dry": false}
+{"key": "OTDELKADROV-35", "deadline": "2026-09-19", "action": "оставлен", "why": "задача автора ГД", "at": "2026-09-15T05:30:15", "dry": false}
+{"key": "VLDPROIZVODSTVE-30", "deadline": "2026-09-13", "action": "оставлен", "why": "срок ставил человек (при создании, uid 8000000000000075)", "at": "2026-09-15T05:30:31", "dry": false}
+{"key": "OTDELTEKHNICHES-35", "deadline": "2026-09-05", "action": "оставлен", "why": "срок ставил человек (при создании, uid 8000000000000109)", "at": "2026-09-15T05:30:33", "dry": false}
+{"key": "UPRAVLENIEOKHRA-69", "deadline": "2026-09-19", "action": "оставлен", "why": "задача автора ГД", "at": "2026-09-15T05:30:36", "dry": false}
+{"key": "KULOVME-313", "deadline": "2026-09-13", "action": "оставлен", "why": "срок ставил человек (при создании, uid 8000000000000075)", "at": "2026-09-15T05:30:39", "dry": false}
+{"key": "OIT-103", "deadline": "2026-09-13", "action": "оставлен", "why": "срок ставил человек (при создании, uid 8000000000000275)", "at": "2026-09-15T05:30:40", "dry": false}
+{"key": "OIT-101", "deadline": "2026-09-13", "action": "оставлен", "why": "срок ставил человек (при создании, uid 8000000000000275)", "at": "2026-09-15T05:30:40", "dry": false}
+{"key": "FILIALVLADIKAVK-37", "deadline": "2026-09-20", "action": "оставлен", "why": "задача автора ГД", "at": "2026-09-15T05:30:44", "dry": false}
+{"key": "YURIDICHESKII-67", "deadline": "2026-10-10", "action": "оставлен", "why": "задача автора ГД", "at": "2026-09-15T05:30:44", "dry": false}
+{"itog": true, "moved": 0, "skipped": 12, "checked": 12, "errors": 0, "at": "2026-09-15T05:30:56", "dry": false}
