@@ -4486,3 +4486,17 @@
 {"ts": "2026-09-16T21:28:29", "run": "20260916-212829", "key": "OTDELEKONOMIKII-25", "field": "pending", "было": "2 чел., снимаем одного", "стало": "-8000000000000028", "итог": "ok"}
 {"ts": "2026-09-16T21:28:29", "run": "20260916-212829", "key": "KULOVME-113", "field": "pending", "было": "5 чел., снимаем одного", "стало": "-8000000000000028", "итог": "ok"}
 {"ts": "2026-09-16T21:28:29", "run": "20260916-212829", "key": "UPRAVLENIETARIF-11", "field": "pending", "было": "2 чел., снимаем одного", "стало": "-8000000000000028", "итог": "ok"}
+{"ts": "2026-09-17T19:49:07", "run": "20260917-194907", "key": "CAPPOEVAZARINA-28", "field": "deadline", "было": "2026-09-17", "стало": "2026-09-18", "итог": "ok"}
+{"key": "CAPPOEVAZARINA-15", "fields": ["pendingReplyFrom"], "note": "прямая правка полей из MCP", "at": "2026-09-17T19:50:02+0300", "via": "mcp"}
+{"key": "KCOEVTM-128", "fields": ["pendingReplyFrom"], "note": "прямая правка полей из MCP", "at": "2026-09-17T19:55:03+0300", "via": "mcp"}
+{"key": "FILIALPRIGORODN-38", "fields": ["pendingReplyFrom"], "note": "прямая правка полей из MCP", "at": "2026-09-17T19:57:50+0300", "via": "mcp"}
+{"ts": "2026-09-17T19:58:17", "run": "20260917-195817", "key": "FILIALPRIGORODN-38", "field": "deadline", "было": "2026-09-03", "стало": "2026-09-25", "итог": "ok"}
+{"key": "VLDGLAVNYIINZHE-2", "fields": ["pendingReplyFrom"], "note": "прямая правка полей из MCP", "at": "2026-09-17T20:03:05+0300", "via": "mcp"}
+{"key": "FILIALPRIGORODN-97", "fields": ["pendingReplyFrom"], "note": "прямая правка полей из MCP", "at": "2026-09-17T20:13:26+0300", "via": "mcp"}
+{"key": "FILIALPRIGORODN-105", "fields": ["pendingReplyFrom"], "note": "прямая правка полей из MCP", "at": "2026-09-17T20:15:16+0300", "via": "mcp"}
+{"ts": "2026-09-17T20:15:17", "run": "20260917-201517", "key": "FILIALPRIGORODN-105", "field": "deadline", "было": "2026-09-17", "стало": "2026-09-21", "итог": "ok"}
+{"ts": "2026-09-17T20:20:50", "run": "20260917-202050", "key": "EZEEVAZV-61", "field": "deadline", "было": "2026-08-24", "стало": "2026-09-22", "итог": "ok"}
+{"ts": "2026-09-17T20:36:47", "run": "20260917-203647", "key": "CAPPOEVAZARINA-21", "field": "deadline", "было": "2026-09-15", "стало": "2026-09-25", "итог": "ok"}
+{"ts": "2026-09-17T21:07:52", "run": "20260917-210752", "key": "EDUARDSPOEIRCVO-46", "field": "assignee", "было": "8000000000000008", "стало": "batsoevgeorge", "итог": "ok"}
+{"ts": "2026-09-17T21:08:04", "run": "20260917-210804", "key": "EDUARDSPOEIRCVO-46", "field": "assignee", "было": "8000000000000121", "стало": "batsoevgeorge", "итог": "ok"}
+{"ts": "2026-09-17T21:08:10", "run": "20260917-210810", "key": "EDUARDSPOEIRCVO-46", "field": "assignee", "было": "8000000000000121", "стало": "batsoevgeorge", "итог": "ok"}
