@@ -45,3 +45,17 @@
 {"at": "2026-09-27T12:55:39+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "b1ckm1ojpil6dfiijtm60plts4", "основание": "заявка на звонок"}
 {"at": "2026-09-27T12:56:53+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "b1ckm1ojpil6dfiijtm60plts4", "основание": "заявка на звонок"}
 {"at": "2026-09-27T12:57:02+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "punhv6mhhb2t7jd9scceb0skok", "основание": "заявка на звонок"}
+{"at": "2026-09-28T18:24:01+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "2ve8upk70ellm6bqmbrk7cgqdg", "основание": "заявка на звонок"}
+{"at": "2026-09-28T21:16:36+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "tjggdc9il65t6kvvscb1ehlkgk", "основание": "заявка на звонок"}
+{"at": "2026-09-28T21:48:13+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "uo16fotj201h04v9t7604lv7ok", "основание": "заявка на звонок"}
+{"at": "2026-09-28T21:48:39+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "irbtgpldjkf5ajh12s80t4rfog", "основание": "заявка на звонок"}
+{"at": "2026-09-28T21:50:08+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "punhv6mhhb2t7jd9scceb0skok", "основание": "заявка на звонок"}
+{"at": "2026-09-28T21:50:25+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "2ve8upk70ellm6bqmbrk7cgqdg", "основание": "заявка на звонок"}
+{"at": "2026-09-28T21:50:41+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "tjggdc9il65t6kvvscb1ehlkgk", "основание": "заявка на звонок"}
+{"at": "2026-09-28T21:51:10+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "te32rtqd149e7nd1hpu20ngjm4", "основание": "заявка на звонок"}
+{"at": "2026-09-28T21:52:59+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "irbtgpldjkf5ajh12s80t4rfog", "основание": "заявка на звонок"}
+{"at": "2026-09-28T21:53:36+03:00", "tool": "create_event", "summary": "Звонок: Сослан Дзукаев — медосмотры РПН, скважины, долги сотрудников Пригородного (FILIALPRIGORODN-26, FILIALPRIGORODN-17, KULOVME-207, FILIALPRIGORODN-74, FILI", "start": "2026-10-02T11:30:00+03:00", "eventId": "", "основание": "заявка на звонок"}
+{"at": "2026-09-28T21:54:33+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "21jkkhvde4n3gfah7ucsl22tqs", "основание": "заявка на звонок"}
+{"at": "2026-09-28T21:54:47+03:00", "tool": "create_event", "summary": "Звонок: Ольга Демченко — звонки Кулову и Бероеву, расчёт Езеевой, оперативки (DEMCHENKOOLGAPE-127, DEMCHENKOOLGAPE-133, DEMCHENKOOLGAPE-76, KCOEVTM-110)", "start": "2026-10-02T12:00:00+03:00", "eventId": "", "основание": "заявка на звонок"}
+{"at": "2026-09-28T21:54:58+03:00", "tool": "create_event", "summary": "Звонок: Дзерасса Кокаева — проверка расчёта переподключения абонентов (MINEKONOMRAZVIT-89)", "start": "2026-10-02T12:30:00+03:00", "eventId": "", "основание": "заявка на звонок"}
+{"at": "2026-09-28T22:09:00+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "irbtgpldjkf5ajh12s80t4rfog", "основание": "заявка на звонок"}
