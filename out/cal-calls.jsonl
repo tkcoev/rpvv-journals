@@ -88,3 +88,13 @@
 {"at": "2026-09-30T12:24:06+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "te32rtqd149e7nd1hpu20ngjm4", "основание": "заявка на звонок"}
 {"at": "2026-09-30T12:27:41+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "b1ckm1ojpil6dfiijtm60plts4", "основание": "заявка на звонок"}
 {"at": "2026-09-30T12:29:10+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "cgb8eh5o5i0m63sa4pup9uuiq8", "основание": "заявка на звонок"}
+{"at": "2026-10-02T09:54:03+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "te32rtqd149e7nd1hpu20ngjm4", "основание": "заявка на звонок"}
+{"at": "2026-10-02T09:55:15+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "te32rtqd149e7nd1hpu20ngjm4", "основание": "заявка на звонок"}
+{"at": "2026-10-02T14:11:06+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "5to3ioav2osbvd99fu66hatnf8", "основание": "заявка на звонок"}
+{"at": "2026-10-02T14:11:50+03:00", "tool": "create_event", "summary": "Звонок: Олег Цховребов — нормативы потребления (GUPOTDELREALIZA-17)", "start": "2026-10-06T10:30:00+03:00", "eventId": "", "основание": "заявка на звонок"}
+{"at": "2026-10-02T14:11:55+03:00", "tool": "create_event", "summary": "Звонок: Казбек Моураов — план по снижению потерь, Алагирский филиал (OTDELTEKHNICHES-28)", "start": "2026-10-06T11:00:00+03:00", "eventId": "", "основание": "заявка на звонок"}
+{"at": "2026-10-02T14:12:16+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "kgdvi36qs611g4teu35sah7fvo", "основание": "заявка на звонок"}
+{"at": "2026-10-02T14:12:39+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "m6gcc0l4lcsq0qbtnhqggsouvc", "основание": "заявка на звонок"}
+{"at": "2026-10-02T14:17:51+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "f11cjll9724ll1q4nnochrv5l8", "основание": "заявка на звонок"}
+{"at": "2026-10-02T14:23:31+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "f11cjll9724ll1q4nnochrv5l8", "основание": "заявка на звонок"}
+{"at": "2026-10-02T16:04:57+03:00", "tool": "create_event", "summary": "Звонок: Сослан Дзукаев — представление прокуратуры (FILIALPRIGORODN-108)", "start": "2026-10-06T11:30:00+03:00", "eventId": "", "основание": "заявка на звонок"}
