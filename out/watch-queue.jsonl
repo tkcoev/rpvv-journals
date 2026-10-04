@@ -1,3 +1,4 @@
 {"at": "2026-10-02T08:40:09", "kind": "overdue", "text": "Просрочка растёт: 82 процентов против 70 на 2026-09-25. Сейчас 860 задач из 1043."}
 {"at": "2026-10-02T08:40:09", "kind": "kadry", "text": "Проверить по кадрам, две недели тишины в задаче: 1.\n1. Олег Цховребов — [ABAEVZR-84] Отключение прочих юр. лиц. за услугу \"негатив\" | тишина 14 дн"}
 {"at": "2026-10-02T20:40:09", "kind": "ro-env", "text": "Читающие службы без предохранителя TRACKER_RO=1: 8 из 8. Сам не правлю, нужно ваше решение.\n1. ro.conf лежит в <служба>.d/, а systemd читает только <служба>.service.d/: tracker-watch.service, tracker-morning.service, tracker-weekly.service, tracker-index.service, tracker-index-full.service, tracker-warm.service, sovet-weekly.service, tracker-journals-snapshot.service"}
+{"at": "2026-10-03T12:40:06", "kind": "overdue", "text": "Просрочка растёт: 84 процентов против 72 на 2026-09-26. Сейчас 871 задач из 1043."}
