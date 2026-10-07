@@ -110,3 +110,4 @@
 {"at": "2026-10-04T14:33:19+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "m6gcc0l4lcsq0qbtnhqggsouvc", "основание": "заявка на звонок"}
 {"at": "2026-10-04T14:34:00+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "m6gcc0l4lcsq0qbtnhqggsouvc", "основание": "заявка на звонок"}
 {"at": "2026-10-04T15:25:08+03:00", "tool": "update_event", "summary": "", "start": "", "eventId": "5sj56jukkhnnb7tf70mnk1fdjk", "основание": "заявка на звонок"}
+{"at": "2026-10-06T10:28:18+03:00", "tool": "create_event", "summary": "Звонок: Мурат Кулов — перечень сетей на баланс (UPRAVLENIETARIF-4)", "start": "2026-10-07T09:30:00+03:00", "eventId": "", "основание": "заявка на звонок"}
