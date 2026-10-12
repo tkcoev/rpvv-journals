@@ -522,3 +522,4 @@
 {"key": "KULOVME-313", "deadline": "2026-09-13", "action": "оставлен", "why": "срок ставил человек (при создании, uid 8000000000000075)", "at": "2026-10-10T05:30:55", "dry": false}
 {"key": "OIT-103", "deadline": "2026-09-13", "action": "оставлен", "why": "срок ставил человек (при создании, uid 8000000000000275)", "at": "2026-10-10T05:30:57", "dry": false}
 {"itog": true, "moved": 0, "skipped": 21, "checked": 21, "errors": 0, "at": "2026-10-10T05:31:02", "dry": false}
+{"itog": true, "moved": 0, "skipped": 0, "checked": 0, "errors": 0, "at": "2026-10-11T05:31:00", "dry": false}
