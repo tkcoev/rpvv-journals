@@ -1023,3 +1023,17 @@
 {"at": "2026-11-18T07:01:06", "kind": "утренняя сводка", "chars": 1495, "ok": true, "dry": false, "err": ""}
 {"at": "2026-11-18T08:40:12", "kind": "сторож, срочное", "chars": 446, "ok": true, "dry": false, "err": ""}
 {"at": "2026-11-19T07:01:02", "kind": "утренняя сводка", "chars": 1450, "ok": true, "dry": false, "err": ""}
+{"at": "2026-11-21T06:11:08", "kind": "сообщение", "chars": 144, "ok": false, "dry": false, "err": "<urlopen error [Errno -3] Temporary failure in name resolution>"}
+{"at": "2026-11-21T07:11:12", "kind": "сообщение", "chars": 144, "ok": false, "dry": false, "err": "<urlopen error [Errno -3] Temporary failure in name resolution>"}
+{"at": "2026-11-21T08:11:16", "kind": "сообщение", "chars": 144, "ok": false, "dry": false, "err": "<urlopen error [Errno -3] Temporary failure in name resolution>"}
+{"at": "2026-11-21T09:11:21", "kind": "сообщение", "chars": 144, "ok": false, "dry": false, "err": "<urlopen error [Errno -3] Temporary failure in name resolution>"}
+{"at": "2026-11-21T10:11:25", "kind": "сообщение", "chars": 144, "ok": false, "dry": false, "err": "<urlopen error [Errno -3] Temporary failure in name resolution>"}
+{"at": "2026-11-21T11:11:29", "kind": "сообщение", "chars": 144, "ok": false, "dry": false, "err": "<urlopen error [Errno -3] Temporary failure in name resolution>"}
+{"at": "2026-11-21T22:07:50", "kind": "сообщение", "chars": 144, "ok": true, "dry": false, "err": ""}
+{"at": "2026-11-21T23:08:13", "kind": "сообщение", "chars": 144, "ok": true, "dry": true, "err": "дубль за 6 ч, не отправлен"}
+{"at": "2026-11-22T00:08:23", "kind": "сообщение", "chars": 144, "ok": true, "dry": true, "err": "дубль за 6 ч, не отправлен"}
+{"at": "2026-11-22T01:08:32", "kind": "сообщение", "chars": 144, "ok": true, "dry": true, "err": "дубль за 6 ч, не отправлен"}
+{"at": "2026-11-22T02:08:41", "kind": "сообщение", "chars": 144, "ok": true, "dry": true, "err": "дубль за 6 ч, не отправлен"}
+{"at": "2026-11-22T03:08:50", "kind": "сообщение", "chars": 144, "ok": true, "dry": true, "err": "дубль за 6 ч, не отправлен"}
+{"at": "2026-11-22T04:08:58", "kind": "сообщение", "chars": 144, "ok": true, "dry": false, "err": ""}
+{"at": "2026-11-22T05:09:07", "kind": "сообщение", "chars": 144, "ok": true, "dry": true, "err": "дубль за 6 ч, не отправлен"}
