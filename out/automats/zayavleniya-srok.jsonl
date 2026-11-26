@@ -8278,3 +8278,111 @@
 {"itog": true, "set": 0, "dogon": 0, "errors": 0, "at": "2026-11-25T03:07:09", "dry": false}
 {"itog": true, "set": 0, "dogon": 0, "errors": 0, "at": "2026-11-25T04:07:03", "dry": false}
 {"itog": true, "set": 0, "dogon": 0, "errors": 0, "at": "2026-11-25T05:07:11", "dry": false}
+{"itog": true, "set": 0, "dogon": 0, "errors": 0, "at": "2026-11-25T06:07:04", "dry": false}
+{"itog": true, "set": 0, "dogon": 0, "errors": 0, "at": "2026-11-25T07:07:09", "dry": false}
+{"itog": true, "set": 0, "dogon": 0, "errors": 0, "at": "2026-11-25T08:07:06", "dry": false}
+{"itog": true, "set": 0, "dogon": 0, "errors": 0, "at": "2026-11-25T09:07:28", "dry": false}
+{"key": "ZAYAVLENIYA-9258", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T10:07:09", "dry": false}
+{"itog": true, "set": 1, "dogon": 0, "errors": 0, "at": "2026-11-25T10:07:09", "dry": false}
+{"key": "ZAYAVLENIYA-9259", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T11:07:19", "dry": false}
+{"itog": true, "set": 1, "dogon": 0, "errors": 0, "at": "2026-11-25T11:07:19", "dry": false}
+{"key": "ZAYAVLENIYA-9262", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T12:07:32", "dry": false}
+{"key": "ZAYAVLENIYA-9261", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T12:07:33", "dry": false}
+{"key": "ZAYAVLENIYA-9260", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T12:07:33", "dry": false}
+{"itog": true, "set": 3, "dogon": 0, "errors": 0, "at": "2026-11-25T12:07:33", "dry": false}
+{"key": "ZAYAVLENIYA-9265", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T13:07:08", "dry": false}
+{"key": "ZAYAVLENIYA-9264", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T13:07:08", "dry": false}
+{"key": "ZAYAVLENIYA-9263", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T13:07:09", "dry": false}
+{"key": "ZAYAVLENIYAYURL-766", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T13:07:10", "dry": false}
+{"key": "ZAYAVLENIYAYURL-765", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T13:07:10", "dry": false}
+{"key": "ZAYAVLENIYAYURL-764", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T13:07:11", "dry": false}
+{"key": "ZAYAVLENIYAYURL-763", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T13:07:11", "dry": false}
+{"key": "ZAYAVLENIYAYURL-762", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T13:07:12", "dry": false}
+{"key": "ZAYAVLENIYAYURL-761", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T13:07:12", "dry": false}
+{"key": "ZAYAVLENIYAYURL-760", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T13:07:13", "dry": false}
+{"key": "ZAYAVLENIYAYURL-759", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T13:07:14", "dry": false}
+{"key": "ZAYAVLENIYAYURL-758", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T13:07:14", "dry": false}
+{"key": "ZAYAVLENIYAYURL-757", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T13:07:15", "dry": false}
+{"key": "ZAYAVLENIYAYURL-756", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T13:07:15", "dry": false}
+{"key": "ZAYAVLENIYAYURL-755", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T13:07:16", "dry": false}
+{"key": "ZAYAVLENIYAYURL-754", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T13:07:16", "dry": false}
+{"itog": true, "set": 16, "dogon": 0, "errors": 0, "at": "2026-11-25T13:07:16", "dry": false}
+{"key": "ZAYAVLENIYA-9267", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T14:07:17", "dry": false}
+{"key": "ZAYAVLENIYA-9266", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T14:07:17", "dry": false}
+{"itog": true, "set": 2, "dogon": 0, "errors": 0, "at": "2026-11-25T14:07:17", "dry": false}
+{"key": "ZAYAVLENIYA-9270", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T15:07:10", "dry": false}
+{"key": "ZAYAVLENIYAFIZL-3551", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T15:07:10", "dry": false}
+{"key": "ZAYAVLENIYAFIZL-3550", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T15:07:11", "dry": false}
+{"key": "ZAYAVLENIYAFIZL-3549", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T15:07:12", "dry": false}
+{"key": "ZAYAVLENIYA-9269", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T15:07:12", "dry": false}
+{"key": "ZAYAVLENIYAFIZL-3548", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T15:07:13", "dry": false}
+{"key": "ZAYAVLENIYAFIZL-3547", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T15:07:14", "dry": false}
+{"key": "ZAYAVLENIYAFIZL-3546", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T15:07:14", "dry": false}
+{"key": "ZAYAVLENIYAFIZL-3545", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T15:07:15", "dry": false}
+{"key": "ZAYAVLENIYAFIZL-3544", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T15:07:16", "dry": false}
+{"key": "ZAYAVLENIYA-9268", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T15:07:16", "dry": false}
+{"itog": true, "set": 11, "dogon": 0, "errors": 0, "at": "2026-11-25T15:07:16", "dry": false}
+{"key": "ZAYAVLENIYAFIZL-3562", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:07", "dry": false}
+{"key": "ZAYAVLENIYAFIZL-3561", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:08", "dry": false}
+{"key": "ZAYAVLENIYA-9298", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:08", "dry": false}
+{"key": "ZAYAVLENIYAYURL-770", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:09", "dry": false}
+{"key": "ZAYAVLENIYAYURL-769", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:10", "dry": false}
+{"key": "ZAYAVLENIYA-9297", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:11", "dry": false}
+{"key": "ZAYAVLENIYA-9296", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:11", "dry": false}
+{"key": "ZAYAVLENIYA-9295", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:12", "dry": false}
+{"key": "ZAYAVLENIYA-9294", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:13", "dry": false}
+{"key": "ZAYAVLENIYA-9293", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:13", "dry": false}
+{"key": "ZAYAVLENIYA-9292", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:14", "dry": false}
+{"key": "ZAYAVLENIYA-9291", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:14", "dry": false}
+{"key": "ZAYAVLENIYA-9290", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:15", "dry": false}
+{"key": "ZAYAVLENIYA-9289", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:16", "dry": false}
+{"key": "ZAYAVLENIYA-9288", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:16", "dry": false}
+{"key": "ZAYAVLENIYAFIZL-3560", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:16", "dry": false}
+{"key": "ZAYAVLENIYA-9287", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:17", "dry": false}
+{"key": "ZAYAVLENIYA-9286", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:18", "dry": false}
+{"key": "ZAYAVLENIYA-9285", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:18", "dry": false}
+{"key": "ZAYAVLENIYAYURL-768", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:19", "dry": false}
+{"key": "ZAYAVLENIYA-9284", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:19", "dry": false}
+{"key": "ZAYAVLENIYA-9283", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:19", "dry": false}
+{"key": "ZAYAVLENIYA-9282", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:20", "dry": false}
+{"key": "ZAYAVLENIYA-9281", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:20", "dry": false}
+{"key": "ZAYAVLENIYA-9280", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:21", "dry": false}
+{"key": "ZAYAVLENIYA-9279", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:22", "dry": false}
+{"key": "ZAYAVLENIYA-9278", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:22", "dry": false}
+{"key": "ZAYAVLENIYA-9277", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:22", "dry": false}
+{"key": "ZAYAVLENIYA-9276", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:23", "dry": false}
+{"key": "ZAYAVLENIYA-9275", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:23", "dry": false}
+{"key": "ZAYAVLENIYAFIZL-3558", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:24", "dry": false}
+{"key": "ZAYAVLENIYAFIZL-3557", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:24", "dry": false}
+{"key": "ZAYAVLENIYA-9274", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:25", "dry": false}
+{"key": "ZAYAVLENIYAFIZL-3559", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:26", "dry": false}
+{"key": "ZAYAVLENIYA-9273", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:26", "dry": false}
+{"key": "ZAYAVLENIYA-9272", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:27", "dry": false}
+{"key": "ZAYAVLENIYA-9271", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:27", "dry": false}
+{"key": "ZAYAVLENIYAFIZL-3556", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:28", "dry": false}
+{"key": "ZAYAVLENIYAFIZL-3555", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:28", "dry": false}
+{"key": "ZAYAVLENIYAFIZL-3554", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:29", "dry": false}
+{"key": "ZAYAVLENIYAFIZL-3553", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:29", "dry": false}
+{"key": "ZAYAVLENIYAFIZL-3552", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T16:07:30", "dry": false}
+{"itog": true, "set": 42, "dogon": 0, "errors": 0, "at": "2026-11-25T16:07:30", "dry": false}
+{"key": "ZAYAVLENIYA-9306", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T17:07:17", "dry": false}
+{"key": "ZAYAVLENIYA-9305", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T17:07:18", "dry": false}
+{"key": "ZAYAVLENIYA-9304", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T17:07:19", "dry": false}
+{"key": "ZAYAVLENIYA-9303", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T17:07:19", "dry": false}
+{"key": "ZAYAVLENIYA-9302", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T17:07:20", "dry": false}
+{"key": "ZAYAVLENIYA-9301", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T17:07:20", "dry": false}
+{"key": "ZAYAVLENIYA-9300", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T17:07:21", "dry": false}
+{"key": "ZAYAVLENIYA-9299", "created": "2026-11-25", "deadline": "2026-12-09", "kind": "по созданию", "action": "срок поставлен", "at": "2026-11-25T17:07:22", "dry": false}
+{"itog": true, "set": 8, "dogon": 0, "errors": 0, "at": "2026-11-25T17:07:22", "dry": false}
+{"itog": true, "set": 0, "dogon": 0, "errors": 0, "at": "2026-11-25T18:07:26", "dry": false}
+{"itog": true, "set": 0, "dogon": 0, "errors": 0, "at": "2026-11-25T19:07:05", "dry": false}
+{"itog": true, "set": 0, "dogon": 0, "errors": 0, "at": "2026-11-25T20:07:15", "dry": false}
+{"itog": true, "set": 0, "dogon": 0, "errors": 0, "at": "2026-11-25T21:07:25", "dry": false}
+{"itog": true, "set": 0, "dogon": 0, "errors": 0, "at": "2026-11-25T22:07:02", "dry": false}
+{"itog": true, "set": 0, "dogon": 0, "errors": 0, "at": "2026-11-25T23:07:14", "dry": false}
+{"itog": true, "set": 0, "dogon": 0, "errors": 0, "at": "2026-11-26T00:07:02", "dry": false}
+{"itog": true, "set": 0, "dogon": 0, "errors": 0, "at": "2026-11-26T01:07:04", "dry": false}
+{"itog": true, "set": 0, "dogon": 0, "errors": 0, "at": "2026-11-26T02:07:12", "dry": false}
+{"itog": true, "set": 0, "dogon": 0, "errors": 0, "at": "2026-11-26T03:07:23", "dry": false}
+{"itog": true, "set": 0, "dogon": 0, "errors": 0, "at": "2026-11-26T04:07:03", "dry": false}
+{"itog": true, "set": 0, "dogon": 0, "errors": 0, "at": "2026-11-26T05:07:02", "dry": false}
